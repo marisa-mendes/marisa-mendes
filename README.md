@@ -17,9 +17,9 @@
 
 ## 🌎 Encontre-me na web:
 <div align="left">
-    <a href="mailto:marisamendes.qa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/marisa-mendes-qa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>>
-    - 📚 [Currículo](curriculum.md)
+    <a href="https://www.linkedin.com/in/marisa-mendes-qa/">LinkedIn</a>
+    <a href="mailto:marisamendes.qa@gmail.com">E-mail</a>
+    <a href="curriculo.md">Currículo</a>
 </div>
 
 ## 💻 Qualificações:
