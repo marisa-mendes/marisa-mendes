@@ -15,10 +15,10 @@
  🐞 Sou Analista de Testes/QA<br>
  ⚡ Pós-graduanda em Automação de Testes de Software<br>
 
-## 🌎 Encontre-me na web
-    - 💼 [Linkedin] (https://www.linkedin.com/in/marisa-mendes-qa/)
-    - 📧 marisamendes.qa@gmail.com
-    - 📚 [Currículo](curriculum.md)
+## 🌎 Encontre-me na web:
+    - 💼 [**Linkedin**]:(https://www.linkedin.com/in/marisa-mendes-qa/)
+    - 📧 [**E-mail**]:marisamendes.qa@gmail.com
+    - 📚 [**Currículo**]:(curriculum.md)
 
 ## 💻 Qualificações:
     - **Testes Manuais**
