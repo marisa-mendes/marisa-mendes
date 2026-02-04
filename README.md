@@ -2,11 +2,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
 
 ---
-<div align="left">
+<!--<div align="left"> -->
 
-<div align="center">
+<div align="center"
 ## Olá pessoal! 👋🏽
-<div align="center"/>
+div align="center"/>
+
+<div align="left">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Marisa+Mendes+%E2%9C%A8)](https://git.io/typing-svg)
 
