@@ -1,3 +1,4 @@
+
 **Marisa Mendes**
 [Linkedin]([text](https://www.linkedin.com/in/marisa-mendes-qa/)) | Fortaleza-CE
 
@@ -12,5 +13,5 @@
 ---
 
 ### Competências Técnicas:
-2
+
 
