@@ -10,7 +10,7 @@ Busco novas oportunidades onde possa atuar como Analista de Testes/QA.
 ---
 
 ### 💼 Resumo Profissional
-Profissional com mais de 4 anos de experiência em QA.
+Profissional com mais de 4 anos de experiência em testes funcionais e exploratórios, atuando em todo o ciclo de testes com foco em qualidade, eficiência e redução de riscos. Certificada CTFL, com sólida vivência em metodologias ágeis (Scrum/Kanban). Experiência em testes Web, Mobile e APIs utilizando Javascript, Python, Playwright, Cypress e Postman. Banco de dados: consultas, joins, subqueries e views utilizando SQL Server. Atuação integrada com times multidisciplinares, utilizando Jira, Azure DevOps, Git e GitHub.
 
 ---
 

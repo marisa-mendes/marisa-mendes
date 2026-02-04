@@ -18,7 +18,7 @@
 ## 🌎 Encontre-me na web
     - 💼 [Linkedin] (https://www.linkedin.com/in/marisa-mendes-qa/)
     - 📧 marisamendes.qa@gmail.com
-    - 📚 [Curriculum](curriculum.md)
+    - 📚 [Currículo](curriculum.md)
 
 ## 💻 Qualificações:
     - **Testes Manuais**
@@ -39,8 +39,6 @@
 
 ## 🏅 Certificação:
     - Certified Tester Foundation Level (CTFL) - ISTQB
-
-    ---
 
 <!-- Parte inferior da página -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
