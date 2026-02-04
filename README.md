@@ -16,9 +16,9 @@
  ⚡ Pós-graduanda em Automação de Testes de Software<br>
 
 ## 🌎 Encontre-me na web:
-    - 💼 [**Linkedin**]:(https://www.linkedin.com/in/marisa-mendes-qa/)
-    - 📧 [**E-mail**]:marisamendes.qa@gmail.com
-    - 📚 [**Currículo**]:(curriculum.md)
+    - 💼 [LinkedIn](https://www.linkedin.com/in/marisa-mendes-qa/)
+    - 📧 [E-mail]marisamendes.qa@gmail.com
+    - 📚 [Currículo](curriculum.md)
 
 ## 💻 Qualificações:
     - **Testes Manuais**
