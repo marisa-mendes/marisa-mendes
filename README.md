@@ -4,9 +4,9 @@
 ---
 <!--<div align="left"> -->
 
-<div align="center">
+<h1 align="center">
 ## Olá pessoal! 👋🏽
-</div>
+</h1>
 
 <div align="left">
 
