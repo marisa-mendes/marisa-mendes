@@ -4,7 +4,7 @@
 ---
 <!--<div align="left"> -->
 
-<h1 align="center">
+<h1 align="left">
 Marisa Mendes
 </h1>
 
