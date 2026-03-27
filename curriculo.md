@@ -43,8 +43,11 @@ Profissional com mais de 4 anos de experiência em testes funcionais e explorat�
 ---
 
 ### 🎓 Formação Acadêmica:
+- Pós-Graduação em Automação de Testes de Software (Facint)
+- Análise e Desenvolvimento de Sistemas (Estácio)
 
 ---
 
 ### 📚 Cursos & Cerificações:
+- Certified Tester Foundation Level (CTFL) - ISTBQ
 
