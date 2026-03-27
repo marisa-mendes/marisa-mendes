@@ -41,6 +41,9 @@ Marisa Mendes
 - [**Postman**](https://www.postman.com/): Postman é sua plataforma única para desenvolvimento colaborativo de API. 
 - [**k6**](https://grafana.com/docs/k6/latest/): O Grafana k6 é uma ferramenta de teste de carga extensível, de código aberto e fácil de usar para desenvolvedores.
 
+## 🧠 Competências Comportamentais:
+· Atenção a detalhes · Pensamento analítico · Comunicação · Trabalho em equipe · Proatividade · Aprendizado contínuo · Adaptabilidade · Organização e consistência · Curiosidade investigativa
+
 ## 🏅 Certificação:
     - Certified Tester Foundation Level (CTFL) - ISTQB
 
