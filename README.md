@@ -21,19 +21,10 @@ Marisa Mendes
     📑 <a href="curriculo.md">Currículo</a><br>
 </div>
 
-## 💻 Qualificações:
-- Testes de Software
-- Testes Manuais
-- Testes API
-- Banco de dados (SQL)
-- Automação de Testes
-- Lógica e Qualidade
-- Metodologias e Processos
-- Ferramentas
-- Linguagens / Tecnologias
-- Uso de IA no contexto de QA
+## 💻 Competências Técnicas:
+· Testes de Software · Testes Manuais · Testes API · Banco de dados (SQL) · Automação de Testes · Lógica e Qualidade · Metodologias e Processos · Ferramentas · Linguagens / Tecnologias · Uso de IA no contexto de QA
 
-## 🛠️ Competências Técnicas:
+## 🛠️ Ferramentas / Linguagens:
 - [**Selenium**](https://www.selenium.dev/): Automação de navegadores para testes de aplicações web.
 - [**Robot Framework**](https://robotframework.org/): Framework de automação de testes baseado em palavras-chave.
 - [**Cypress**](https://www.cypress.io/): Framework moderno para testes end-to-end de aplicações web.
