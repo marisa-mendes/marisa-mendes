@@ -49,5 +49,5 @@ Profissional com mais de 4 anos de experiência em testes funcionais e explorat�
 ---
 
 ### 📚 Cursos & Cerificações:
-- Certified Tester Foundation Level (CTFL) - ISTBQ
+- Certified Tester Foundation Level (CTFL) - ISTQB
 
